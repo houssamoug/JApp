@@ -29,4 +29,5 @@ public class Fenetre {
     //Et enfin, la rendre visible        
     fenetre.setVisible(true);
   }       
+  // ce ci est un coment
 }
