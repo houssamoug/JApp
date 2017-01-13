@@ -19,5 +19,7 @@ public class Fenetre {
     fenetre.add(label);
     //Et enfin, la rendre visible        
     fenetre.setVisible(true);
+    
+    //modification de code
   }       
 }
